@@ -1,0 +1,28 @@
+.shop-container{
+    display: grid;
+    grid-template-columns:1fr 3fr 1fr;
+    grid-gap: 10px;
+}
+.item-name{
+    margin: 20px 0px 0px 30px;
+    
+   
+   
+}
+.item-name a{
+    text-decoration: none;
+    color: black;
+}
+.product-show{
+    border-left: 1px solid rgb(116, 98, 98);
+    border-right: 1px solid rgb(116, 98, 98);
+    padding: 10px;
+    
+}
+
+/* .order-summery{
+    text-align: center;
+} */
+.cart-name li{
+    list-style: none;
+}
